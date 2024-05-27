@@ -53,7 +53,7 @@ Remember learning never ends, especially with technology developing as rapidly a
 
 National Artificial Intelligence and Algorithm Expert Advisory Group 
 
-NAIAEAG advice all Te Whatu Ora employees and contractors to NOT​:
+NAIAEAG advise all Te Whatu Ora employees and contractors to NOT​:
 
 * “Enter any personal, confidential or sensitive patient or organizational data into Large language models & Generative AI tools”​
 

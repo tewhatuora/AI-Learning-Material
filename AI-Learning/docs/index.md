@@ -64,3 +64,9 @@ The NAIAEAG are committed to continually updating their advice on the use of Lar
 To contact NAIAEAG there is a form available for TWO employees to fill out to tell the advisory group what they are using AI for or what they hope to use AI for. ​
 
 [Te Whatu Ora official Advice for LLM and Generative AI use](https://www.tewhatuora.govt.nz/for-health-professionals/health-sector-updates/large-language-models-and-generative-ai-advice/)
+
+## Contributors
+- Theo Loach
+- Nina Shepard
+- Lara Hopley
+- Jon Herries

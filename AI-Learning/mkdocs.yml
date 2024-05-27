@@ -1,0 +1,11 @@
+site_name: Te Whatu Ora AI Learning Resource
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Ethics, Social License & Governance: ethics_social_license_governance.md
+  - Risk Management: risk_management.md
+  - Machine Learning: machine_learning.md
+  - Deep Learning: deep_learning.md
+  - Modelling: modelling.md
+  - Model Metrics: metrics.md
+theme: material

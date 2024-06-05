@@ -10,11 +10,7 @@ This document has a search function if your on the hunt for something specific (
 ## About this Content
 There is a broad range of content covered in this resource broken into separate sections that can be comfortably consumed on their own in a short sitting. This resource is focused around AI in health but is useful for general learning also. There are both technical and non-technical focused sections (they tend to be either or) with references to source material as well as many links to video based alternatives (where available) if reading isn't your thing. 
 
-We have also tried to include further reading, additional examples and links to more advanced material if you want to go further and learn more on your own. 
-
-If you've arrived here just for the basics and a general overview the 'Introduction' section should be enough to get started, although we do encourage everyone to try and work down through the sections in order to 'Ethics, Social License & Governance' at their own pace. 
-
-The remaining sections are the ones with a more technical focus, so unless your keen to learn about how machine learning works and like a healthy dose of stats don't feel like your missing out. The 'History of AI' being the exception to this, which is great for understanding the development of this not-so-new technology to better contextualize the present (we understand if history isn't your favorite though).
+We have also tried to include further reading, additional examples and links to more advanced material if you want to go further and learn more on your own. If you've arrived here just for the basics and a general overview the 'Introduction' section should be enough to get started, although we do encourage everyone to try and work down through the sections in order at their own pace.
 
 Remember learning never ends, especially with technology developing as rapidly as it does, don't feel like you need to learn it all at once. Come back as interest or situation demands and make use of this as a place to start!
 

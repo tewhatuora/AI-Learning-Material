@@ -93,6 +93,6 @@ Gradient descent is a crucially important concept, and method that neural networ
 
 As impressive as large models have been in recent memory, state-of-the art applications for AI systems are increasingly heading towards compound AI systems comprised of multiple components working together instead of single large models:
 
-* [Compund AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+* [Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 
 * [Large language model abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
